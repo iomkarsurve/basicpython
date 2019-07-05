@@ -9,6 +9,6 @@ Topic in code:
   <li> if statement</li>
   <li>elif statement</li>
   <li>else statement</li>
-  <li>Python App 1: Building our very first real world application <b>Calculator</b></li>
+  <li><b>Python App 1:</b> Building our very first real world application <b>Calculator</b></li>
 
 </ol>
