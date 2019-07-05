@@ -2,7 +2,7 @@
 begineer python programs
 Code On Topic :
 
-printing in python
-storing value in variable
+printing in python <br>
+storing value in variable<br>
 addition of numbers
 Taking input from user
