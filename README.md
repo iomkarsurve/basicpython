@@ -1,6 +1,6 @@
 # basicpython
 begineer python programs
-Code On Topic :
+Topic in code program.py :
 <ol>
   <li>printing in python </li>
   <li>storing value in variable</li>
