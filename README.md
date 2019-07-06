@@ -15,5 +15,9 @@ Topic in code:
    <li>for loop</li>
    <li>while loop</li>
    <li>infinite loop</li>
-  
+  <h5>functions or methods</h5>
+  <li> Functions</li>
+  <li>Reusability of fuctions</li>
+  <li>default argument</li>
+  <li>return value</li>
 </ol>
