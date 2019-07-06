@@ -10,5 +10,9 @@ Topic in code:
   <li>elif statement</li>
   <li>else statement</li>
   <li><b>Python App 1:</b> Building our very first real world application <b>Calculator</b></li>
-
+<b>iteration statements</b>
+   <li>for loop</li>
+   <li>while loop</li>
+   <li>infinite loop</li>
+  
 </ol>
